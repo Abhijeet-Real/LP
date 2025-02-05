@@ -1,4 +1,4 @@
-# Linear Programming for Operations 📊
+# Management Decision Science using Excel 📊
 
 This repository contains **Excel files** demonstrating the application of **Linear Programming (LP)** techniques in **Operations Management**. The files provide structured solutions to optimization problems, enabling efficient decision-making in areas such as **resource allocation, cost minimization, and production planning**.
 
